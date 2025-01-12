@@ -33,6 +33,7 @@
 
 ### :woman_technologist: About Me :
 
+Hi Guy, My name is Duc Van Hoang!
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 - :telescope: I am a freelance backend developer to build websites.
