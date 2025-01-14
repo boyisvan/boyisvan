@@ -42,4 +42,4 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my spare time, I explore about my job and read technology articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ducvan-blue?style=flat&logo=Linkedin&logoColor=white)](facebook.com/vawnnnn)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ducvan-blue?style=flat&logo=Linkedin&logoColor=white)]([github.com/](https://boyisvan.github.io/profiles/))
