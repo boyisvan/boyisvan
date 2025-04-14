@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center">Tech Stack</p>
+<p align="center">Duc Van Coder</p>
 
 
 <p align="center">
