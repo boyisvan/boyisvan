@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center">Duc Van Coder</p>
+<p align="center">Duc Van Coder | <b>boyisvan</b> | 0587282880</p>
 
 
 <p align="center">
